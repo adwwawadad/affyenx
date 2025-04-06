@@ -36,7 +36,7 @@ export default function Home() {
       </div>
       
       {/* Contact Section */}
-      <div className="w-full py-6 bg-white dark:bg-gray-800 shadow-inner mt-auto">
+      <div className="w-full py-6 mt-auto">
         <div className="flex flex-col sm:flex-row justify-center items-center gap-4 sm:gap-8 p-4 max-w-md mx-auto">
           <Link 
             href="https://t.me/newMardinle" 
